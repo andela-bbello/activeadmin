@@ -9,7 +9,6 @@ gem 'rails', rails_version
 
 # Optional dependencies
 gem 'cancan'
-gem 'devise'
 gem 'draper'
 gem 'pundit'
 
